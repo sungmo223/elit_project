@@ -6,12 +6,12 @@
 
 #### *a food delivery service web platform*
 
-김소라 외 4인이 협업하여 만든 웹 배달서비스 프로젝트입니다. 
+강성모 외 4인이 협업하여 만든 웹 배달서비스 프로젝트입니다. 
 
 ---
 
 ### **✨YouTube link✨**
-<a href="https://www.youtube.com/watch?v=JczC8svHlNI" target="_blank" rel="noopener"> https://www.youtube.com/watch?v=JczC8svHlNI</a>
+<a href="https://youtu.be/yFv-GmR9-XQ" target="_blank" rel="noopener"> https://youtu.be/yFv-GmR9-XQ</a>
 
 
 
